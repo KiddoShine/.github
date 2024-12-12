@@ -1,7 +1,7 @@
 # KiddoShine - Bangkit Academy Capstone by
 
 <div align="center">
-  <img src="png" alt="Fat Track" style="width: 20%;">
+  <img src="logo kiddoshine blue.png" alt="Fat Track" style="width: 20%;">
   <p></p>
 </div>
 
