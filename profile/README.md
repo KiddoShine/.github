@@ -39,9 +39,8 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 
 # Project Documentation
 1. Learning Path Documentation
-    - [Machine Learning](https://github.com/sulisindriyani/Projectcapstone)
-    - [ML API](https://github.com/Bangkit-2023-Capstone-CH2-PS307/ML-API)
-    - [Cloud Computing](https://github.com/Bangkit-2023-Capstone-CH2-PS307/CC)
+    - [Machine Learning](https://github.com/KiddoShine/Machine-Learning)
+    - [Cloud Computing](https://github.com/KiddoShine/Cloud-Computing)
     - [Android](https://github.com/Bangkit-2023-Capstone-CH2-PS307/MD)
 2. You can download NutriKita apps [here](https://drive.google.com/file/d/1WnLHmuKmRjj20Ed3vNd-Wnq2w83Yr88y/view)
 3. To see [application demo video](https://drive.google.com/file/d/1ZUX8kb0fgL67HkWwY1MDMahEqdRhZg8Y/view)
