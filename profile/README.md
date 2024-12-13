@@ -42,5 +42,5 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
     - [Machine Learning](https://github.com/KiddoShine/Machine-Learning)
     - [Cloud Computing](https://github.com/KiddoShine/Cloud-Computing)
     - [Mobile Development](https://github.com/IbrahimAliAbel/MD-KiddoShine.git)
-2. You can download NutriKita apps [here](https://drive.google.com/file/d/1WnLHmuKmRjj20Ed3vNd-Wnq2w83Yr88y/view)
-3. To see [application demo video](https://drive.google.com/file/d/1ZUX8kb0fgL67HkWwY1MDMahEqdRhZg8Y/view)
+2. You can download KiddoShine apps [here](https://drive.google.com/file/d/1zsk4luusuGapibc4UGPYVCysEUS_1GTO/view?usp=sharing)
+3. To see [application demo video](https://drive.google.com/file/d/19XRtOnvo9TuWcEA2f-PHTlC6wMD6qhHK/view?usp=sharing)
