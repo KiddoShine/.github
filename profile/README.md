@@ -29,7 +29,7 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 
 # Application Result
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bangkit-2023-Capstone-CH2-PS307/.github/main/profile/assets/nutrikita%20overview.png" alt="Result App" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/KiddoShine/.github/main/profile/assets/banner UI.jpg" alt="Result App" style="width: 100%;">
 </div>
 
 # Project Architecture
