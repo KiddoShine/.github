@@ -41,6 +41,6 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 1. Learning Path Documentation
     - [Machine Learning](https://github.com/KiddoShine/Machine-Learning)
     - [Cloud Computing](https://github.com/KiddoShine/Cloud-Computing)
-    - [Mobile Development](https://github.com/IbrahimAliAbel/MD-KiddoShine.git)
+    - [Mobile Development](https://github.com/KiddoShine/Mobile-Development)
 2. You can download KiddoShine apps [here](https://drive.google.com/file/d/1zsk4luusuGapibc4UGPYVCysEUS_1GTO/view?usp=sharing)
 3. To see [application demo video](https://drive.google.com/file/d/19XRtOnvo9TuWcEA2f-PHTlC6wMD6qhHK/view?usp=sharing)
