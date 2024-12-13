@@ -1,7 +1,7 @@
 # KiddoShine - Bangkit Academy Capstone by C242-PS066
 
 <div align="center">
-  <img src="profile/assets/logo kiddoshine blue white text.png" alt="KiddoShine" style="width: 20%;">
+  <img src="https://raw.githubusercontent.com/KiddoShine/.github/main/profile/assets/logo kiddoshine blue white text.png" alt="KiddoShine" style="width: 20%;">
   <p></p>
 </div>
 
