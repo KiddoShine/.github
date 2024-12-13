@@ -7,7 +7,7 @@
 
 ## About This Project
 
-**KiddoShine** is an AI-based application that helps users monitor their daily food content by recognizing images of food captured by the user and displaying the nutritional content of the food. Fat Track will display information such as calories, protein, fat, and carbohydrates of the food, which will then be stored to track the nutritional intake of the user's daily meals.
+**KiddoShine** KiddoShine is an AI-based app that helps users track their child's nutrition on a monthly basis. The app provides information on stunting, making it easier for parents to monitor their child's growth and development.
 
 Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well-being
 
@@ -41,6 +41,6 @@ Theme : Health Innovation: Empowering Vulnerable Communities for Health and Well
 1. Learning Path Documentation
     - [Machine Learning](https://github.com/KiddoShine/Machine-Learning)
     - [Cloud Computing](https://github.com/KiddoShine/Cloud-Computing)
-    - [Android](https://github.com/Bangkit-2023-Capstone-CH2-PS307/MD)
+    - [Mobile Development](https://github.com/Bangkit-2023-Capstone-CH2-PS307/MD)
 2. You can download NutriKita apps [here](https://drive.google.com/file/d/1WnLHmuKmRjj20Ed3vNd-Wnq2w83Yr88y/view)
 3. To see [application demo video](https://drive.google.com/file/d/1ZUX8kb0fgL67HkWwY1MDMahEqdRhZg8Y/view)
